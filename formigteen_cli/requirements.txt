@@ -1,0 +1,4 @@
+typer[all]
+PyInquirer
+prompt_toolkit
+rich
